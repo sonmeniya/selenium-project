@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+/ archetype.iml
+/ allure - results /
+/ .idea /
+/ .allure /
+
+/ target /
+/ pom.xml
+* .iml
+target /
